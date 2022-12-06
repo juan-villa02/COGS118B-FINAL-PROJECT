@@ -23,5 +23,5 @@ All the code we wrote to analyse the dataset and create our final Convolutional 
 - numpy
 - matplotlib
 
-Also, since we were not able to perfectly track the movement of the window opened by the API, make sure the canvas is situated between values 200 and 500 with respect to x and y coordinates.
+Also, since we were not able to perfectly track the movement of the window opened by the API, make sure the canvas is situated between values 200 and 500 with respect to x and y coordinates (check the image attached to the directory for a reference).
 
