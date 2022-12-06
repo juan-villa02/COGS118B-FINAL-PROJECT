@@ -14,8 +14,14 @@ For this project, we used Python as the programming language, importing some lib
 
 ### Guidelines
 
-All the code we wrote to analyse the dataset and create our final Convolutional Neural Network is included and explained in the Jupyter Notebook. Aditionally, there is a python script which can be runned separately once the whole notebook has been completely runned. It executes a simple Graphical User Interface (GUI) to test the performance of our model. The required packages for that script are:
+All the code we wrote to analyse the dataset and create our final Convolutional Neural Network is included and explained in the Jupyter Notebook. Aditionally, there is a python script which can be runned separately once the whole notebook has been completely runned. It executes a simple Graphical User Interface (GUI) to test the performance of our model. __The required packages for that script are__:
 
 
+- Tkinter 
+- Keras -> keras.model
+- PIL -> ImageGrab
+- numpy
+- matplotlib
 
+Also, since we were not able to perfectly track the movement of the window opened by the API, make sure the canvas is situated between values 200 and 500 with respect to x and y coordinates.
 
